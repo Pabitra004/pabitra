@@ -116,8 +116,6 @@ body.top:not(.menu-open) header {
     display: flex;
     align-items: center;
     gap: 12px;
-    padding: 10px;
-    border: 2px solid #fff;
 }
 
 .brand img {
