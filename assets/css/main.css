@@ -544,8 +544,8 @@ body.top:not(.menu-open) header .btn {
 .win .page .blob {
   position: absolute;
     right: 7%;
-    top: 2%;
-    width: 25%;
+    top: 5%;
+    width: 22%;
     aspect-ratio: 1;
     background: var(--ac);
     opacity: .9;
@@ -555,7 +555,7 @@ body.top:not(.menu-open) header .btn {
 .win .page .blob:after {
     content: "";
     position: absolute;
-    inset: -12%;
+    inset: -10%;
     border: 1px solid var(--ac);
     transform: rotate(14deg)
 }
