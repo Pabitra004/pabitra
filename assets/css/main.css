@@ -1545,7 +1545,6 @@ dialog iframe {
 }
 
 .photo:after {
-    content: "PM";
     position: absolute;
     inset: 0;
     display: grid;
