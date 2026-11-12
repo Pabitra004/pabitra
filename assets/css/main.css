@@ -98,7 +98,8 @@ header {
     align-items: center;
     gap: 30px;
     padding: 0 4vw;
-    background: color-mix(in srgb, var(--bg) 94%, transparent);
+    background: #00000030;
+    /*background: color-mix(in srgb, var(--bg) 94%, transparent);*/
     color: var(--ink);
     backdrop-filter: blur(14px);
     border-bottom: 1px solid color-mix(in srgb, var(--ink) 14%, transparent);
