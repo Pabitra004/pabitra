@@ -115,7 +115,9 @@ body.top:not(.menu-open) header {
 .brand {
     display: flex;
     align-items: center;
-    gap: 12px
+    gap: 12px;
+    padding: 10px;
+    border: 2px solid #fff;
 }
 
 .brand svg {
