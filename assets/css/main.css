@@ -1382,6 +1382,11 @@ dialog iframe {
         display: none
     }
 
+    .brand img {
+    width: 100%;
+    height: auto;
+}
+
     .hend {
         gap: 14px
     }
