@@ -120,9 +120,9 @@ body.top:not(.menu-open) header {
     border: 2px solid #fff;
 }
 
-.brand svg {
-    width: 60px;
-    height: 42px
+.brand img {
+    width: 30%;
+    height: auto
 }
 
 .brand path {
