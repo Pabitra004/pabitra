@@ -484,7 +484,7 @@ body.top:not(.menu-open) header .btn {
     gap: 8px;
     padding: 10px 14px;
     background: #15232a;
-    font-size: 9px;
+    font-size: 18px;
     color: #ccd8dc
 }
 
@@ -542,14 +542,14 @@ body.top:not(.menu-open) header .btn {
 }
 
 .win .page .blob {
-    position: absolute;
+  position: absolute;
     right: 7%;
-    top: 15%;
-    width: 28%;
+    top: 2%;
+    width: 25%;
     aspect-ratio: 1;
     background: var(--ac);
     opacity: .9;
-    transform: rotate(18deg)
+    transform: rotate(18deg);
 }
 
 .win .page .blob:after {
