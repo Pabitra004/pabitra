@@ -498,7 +498,7 @@ body.top:not(.menu-open) header .btn {
     aspect-ratio: 1.6;
     background: var(--pg);
     color: #13242b;
-    padding: 7% 8%;
+    padding: 7% 2%;
     display: flex;
     flex-direction: column;
     justify-content: center;
