@@ -1408,7 +1408,7 @@ dialog iframe {
         left: 24px;
         right: 24px;
         width: auto;
-        top: calc(140px + 56vw + 20px)
+        top: calc(160px + 56vw + 20px)
     }
 
     .intro h1 {
