@@ -165,7 +165,7 @@ body.top:not(.menu-open) header {
     background: #102129;
     color: #fff;
     border: 1px solid #102129;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 650;
     transition: color .3s, box-shadow .3s
 }
@@ -464,7 +464,7 @@ body.top:not(.menu-open) header .btn {
     position: absolute;
     z-index: 2;
     left: 47%;
-    top: 22%;
+    top: 18%;
     width: 49%;
     background: #101b20;
     border: 1px solid #d4e3e54a;
@@ -608,7 +608,7 @@ body.top:not(.menu-open) header .btn {
     position: absolute;
     z-index: 6;
     left: 42%;
-    top: calc(22% + 25vw);
+    top: calc(18% + 25vw);
     width: clamp(330px, 25vw, 450px);
     padding: 24px 28px;
     background: #102129f2;
@@ -618,14 +618,14 @@ body.top:not(.menu-open) header .btn {
 
 .cap h2 {
     font-size: clamp(26px, 2.1vw, 36px);
-    margin: 10px 0 12px
+    margin: 0 px
 }
 
 .cap p {
     font-size: 14px;
     line-height: 1.6;
     color: #d5e2e5;
-    margin-bottom: 12px
+    margin-bottom: 0px
 }
 
 .cap a {
@@ -641,7 +641,7 @@ body.top:not(.menu-open) header .btn {
     position: absolute;
     z-index: 5;
     right: 5vw;
-    bottom: 70px;
+    bottom: 115px;
     width: 300px
 }
 
@@ -714,7 +714,7 @@ body.top:not(.menu-open) header .btn {
     position: absolute;
     z-index: 3;
     left: 5vw;
-    bottom: 8%;
+    bottom: 3%;
     width: 30vw;
     opacity: .16;
     transform: skewY(-7deg)
@@ -834,7 +834,7 @@ body.top:not(.menu-open) header .btn {
 }
 
 .panel li {
-    font-size: 14px;
+    font-size: 16px;
     padding: 8px 11px;
     border: 1px solid #ffffff4d
 }
@@ -934,7 +934,7 @@ body.top:not(.menu-open) header .btn {
 }
 
 .wh a {
-    font-size: 14px;
+    font-size: 16px;
     border-bottom: 1px solid;
     padding: 8px 0;
     white-space: nowrap
@@ -970,8 +970,8 @@ body.top:not(.menu-open) header .btn {
 }
 
 .pi p {
-    max-width: 370px;
-    font-size: 16px;
+    max-width: 400px;
+    font-size: 18px;
     line-height: 1.7
 }
 
@@ -1037,7 +1037,7 @@ body.top:not(.menu-open) header .btn {
 }
 
 .pp .dt {
-    font-size: 11px;
+    font-size: 14px;
     letter-spacing: .1em;
     display: block;
     margin-bottom: 20px;
@@ -1046,7 +1046,7 @@ body.top:not(.menu-open) header .btn {
 
 .pp ul {
     padding-left: 18px;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 1.8
 }
 
@@ -1069,8 +1069,8 @@ body.top:not(.menu-open) header .btn {
 }
 
 .skills p {
-    font-size: 13px;
-    line-height: 1.9
+    font-size: 16px;
+    line-height: 1.6
 }
 
 .about {
@@ -1113,7 +1113,7 @@ body.top:not(.menu-open) header .btn {
     gap: 35px;
     flex-wrap: wrap;
     margin-top: 30px;
-    font-size: 12px
+    font-size: 14px
 }
 
 .facts div {
@@ -1163,7 +1163,7 @@ body.top:not(.menu-open) header .btn {
 }
 
 .res p.t {
-    font-size: 15px;
+    font-size: 18px;
     line-height: 1.7;
     max-width: 480px
 }
@@ -1193,7 +1193,7 @@ body.top:not(.menu-open) header .btn {
 .paper div {
     padding: 13px 0;
     border-bottom: 1px solid #31505730;
-    font-size: 14px;
+    font-size: 16px;
     display: flex;
     justify-content: space-between;
     gap: 12px
@@ -1216,7 +1216,7 @@ body.top:not(.menu-open) header .btn {
     gap: 40px;
     flex-wrap: wrap;
     margin-top: 30px;
-    font-size: 13px
+    font-size: 18px
 }
 
 footer {
@@ -1240,7 +1240,7 @@ footer {
     display: flex;
     flex-direction: column;
     gap: 13px;
-    font-size: 12px
+    font-size: 18px
 }
 
 .fl {
@@ -1248,7 +1248,7 @@ footer {
     padding-top: 22px;
     display: flex;
     justify-content: space-between;
-    font-size: 10px
+    font-size: 14px
 }
 
 dialog {
