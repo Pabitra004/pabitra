@@ -65,7 +65,7 @@ em {
 }
 
 .eyebrow {
-    font-size: 10px;
+    font-size: 14px;
     font-weight: 650;
     letter-spacing: .13em;
     text-transform: uppercase;
@@ -132,7 +132,7 @@ body.top:not(.menu-open) header {
 }
 
 .brand b {
-    font-size: 15px;
+    font-size: 16px;
     letter-spacing: -.045em;
     line-height: 1.1
 }
@@ -165,7 +165,7 @@ body.top:not(.menu-open) header {
     background: #102129;
     color: #fff;
     border: 1px solid #102129;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 650;
     transition: color .3s, box-shadow .3s
 }
@@ -225,7 +225,7 @@ body.top:not(.menu-open) header {
 
 header .btn {
     min-height: 44px;
-    font-size: 12px
+    font-size: 14px
 }
 
 body.top:not(.menu-open) header .btn {
@@ -239,7 +239,7 @@ body.top:not(.menu-open) header .btn {
     gap: 26px;
     min-height: 44px;
     border-bottom: 1px solid currentColor;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 650
 }
 
@@ -254,7 +254,7 @@ body.top:not(.menu-open) header .btn {
 }
 
 .mtrig b {
-    font-size: 10px;
+    font-size: 12px;
     letter-spacing: .12em
 }
 
@@ -322,7 +322,7 @@ body.top:not(.menu-open) header .btn {
 }
 
 .menu nav a small {
-    font-size: 12px;
+    font-size: 14px;
     letter-spacing: 0;
     font-weight: 400;
     opacity: .65
@@ -593,8 +593,8 @@ body.top:not(.menu-open) header .btn {
 
 .intro p.n {
     margin-top: 22px;
-    max-width: 360px;
-    font-size: 13px;
+    max-width: 80%;
+    font-size: 16px;
     line-height: 1.7;
     color: #dce7e8
 }
@@ -622,19 +622,19 @@ body.top:not(.menu-open) header .btn {
 }
 
 .cap p {
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.6;
     color: #d5e2e5;
     margin-bottom: 12px
 }
 
 .cap a {
-    font-size: 11px;
+    font-size: 14px;
     border-bottom: 1px solid #ffffff80
 }
 
 .cap .eyebrow {
-    font-size: 9px
+    font-size: 12px
 }
 
 .nxt {
@@ -646,7 +646,7 @@ body.top:not(.menu-open) header .btn {
 }
 
 .nxt p {
-    font-size: 9px;
+    font-size: 12px;
     letter-spacing: .15em;
     margin-bottom: 14px;
     color: #dce7e8
@@ -747,9 +747,9 @@ body.top:not(.menu-open) header .btn {
 }
 
 .head>p {
-    font-size: 15px;
+    font-size: 18px;
     line-height: 1.65;
-    max-width: 430px
+    max-width: 460px
 }
 
 .princ {
@@ -771,7 +771,7 @@ body.top:not(.menu-open) header .btn {
 }
 
 .princ p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.7;
     max-width: 360px
 }
@@ -820,7 +820,7 @@ body.top:not(.menu-open) header .btn {
 }
 
 .panel p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.7;
     max-width: 520px
 }
@@ -834,7 +834,7 @@ body.top:not(.menu-open) header .btn {
 }
 
 .panel li {
-    font-size: 10px;
+    font-size: 14px;
     padding: 8px 11px;
     border: 1px solid #ffffff4d
 }
@@ -893,7 +893,7 @@ body.top:not(.menu-open) header .btn {
 }
 
 .pic .nm {
-    font-size: 11px;
+    font-size: 14px;
     letter-spacing: .1em;
     font-weight: 700
 }
@@ -934,14 +934,14 @@ body.top:not(.menu-open) header .btn {
 }
 
 .wh a {
-    font-size: 11px;
+    font-size: 14px;
     border-bottom: 1px solid;
     padding: 8px 0;
     white-space: nowrap
 }
 
 .item p {
-    font-size: 13px;
+    font-size: 16px;
     line-height: 1.65;
     margin-top: 15px;
     max-width: 550px
@@ -949,7 +949,7 @@ body.top:not(.menu-open) header .btn {
 
 .item .eyebrow {
     margin-bottom: 10px;
-    font-size: 9px
+    font-size: 12px
 }
 
 .pn {
@@ -971,7 +971,7 @@ body.top:not(.menu-open) header .btn {
 
 .pi p {
     max-width: 370px;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.7
 }
 
